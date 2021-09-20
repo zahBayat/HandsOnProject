@@ -1,4 +1,3 @@
-# HandsOnProject
 These notebooks will help the user get ready by working with some simple examples using the required packages like healpy, Sky2Patch, etc.
 
 We also have tried different ways of making maps and images. You can also find the code to them here.
@@ -10,5 +9,5 @@ We also have tried different ways of making maps and images. You can also find t
 ![image](https://user-images.githubusercontent.com/90211928/134027713-c301554c-e745-4e54-ad1c-702c46938073.png)
 
 
-- and here you can see how we used the Sky2Patch package to creat patches from our original map.
+- and here you can see the patches we created from our original map using the Sky2Patch package.
 ![image](https://user-images.githubusercontent.com/90211928/134028186-c64139b7-2a4f-422f-95e2-2c0d65a11b4a.png)
